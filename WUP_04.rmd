@@ -56,7 +56,11 @@ It appears that the entire IQR of the High School and LT High School is undernea
 favstats( WORDSUM ~ DEGREE , data= mydata )
 ```
 
+<<<<<<< HEAD
 The mean and median of the LT High School and the High School subcategories are far lower than the means and medians of the univeristy level data points.   
+=======
+The mean and median of the LT High School and the High School subcategories are far lower than the means and medians of th euniveristy level data points.   
+>>>>>>> e92ff2653c93f58eb632929e9e8d152343995240
 
 ## Inferential Results
 
