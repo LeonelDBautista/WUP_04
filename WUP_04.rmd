@@ -73,7 +73,7 @@ plot(TukeyHSD(model1, conf.level = 0.98),las=2)
 
 The inferential analysis, which included an ANOVA test, provided critical insights into the relationship between education level and WORDSUM scores. The results of the ANOVA test yielded a significant F-value 0.000236, indicating that there is a statistically significant difference in mean WORDSUM scores across at least two levels of education.
 
-Subsequently, the post-hoc Tukey's test was conducted to pinpoint specific differences between education levels. This additional analysis allowed us to identify which specific pairs of education levels exhibited significant disparities in mean WORDSUM scores.  
+Subsequently, the post-hoc Tukey's test was conducted to pinpoint specific differences between education levels. This additional analysis allowed us to identify which specific pairs of education levels exhibited significant disparities in mean WORDSUM scores.   
 
 
 # Discussion and Conclusion
